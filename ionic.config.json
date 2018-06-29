@@ -1,0 +1,8 @@
+{
+  "name": "ebscrm",
+  "app_id": "edf00baa",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
